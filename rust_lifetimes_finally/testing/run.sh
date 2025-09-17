@@ -1,0 +1,2 @@
+rustc try.rs
+./try
